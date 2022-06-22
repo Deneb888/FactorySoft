@@ -1,0 +1,4 @@
+Current pixel max max 137, last max 100
+Current pixel max max 183, last max 100
+Current pixel max max 120, last max 137
+Current pixel max max 199, last max 183

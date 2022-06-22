@@ -1,0 +1,269 @@
+eeprom read data: 0
+7a(P) Parity OK.
+eeprom read data: 1
+6a(P) Parity OK.
+eeprom read data: 2
+36(P) Parity OK.
+eeprom read data: 3
+e7(P) Parity OK.
+eeprom read data: 4
+99(P) Parity OK.
+eeprom read data: 5
+dd(P) Parity OK.
+eeprom read data: 6
+26(P) Parity OK.
+eeprom read data: 7
+65(P) Parity OK.
+eeprom read data: 8
+e8(P) Parity OK.
+eeprom read data: 9
+37(P) Parity OK.
+eeprom read data: 10
+32(P) Parity OK.
+eeprom read data: 11
+c7(P) Parity OK.
+eeprom read data: 12
+75(P) Parity OK.
+eeprom read data: 13
+e0(P) Parity OK.
+eeprom read data: 14
+2c(P) Parity OK.
+eeprom read data: 15
+af(P) Parity OK.
+eeprom read data: 16
+66(P) Parity OK.
+eeprom read data: 17
+7e(P) Parity OK.
+eeprom read data: 18
+86(P) Parity OK.
+eeprom read data: 19
+0a(P) Parity OK.
+eeprom read data: 20
+f7(P) Parity OK.
+eeprom read data: 21
+d8(P) Parity OK.
+eeprom read data: 22
+49(P) Parity OK.
+eeprom read data: 23
+62(P) Parity OK.
+eeprom read data: 24
+68(P) Parity OK.
+eeprom read data: 25
+cf(P) Parity OK.
+eeprom read data: 26
+b4(P) Parity OK.
+eeprom read data: 27
+0b(P) Parity OK.
+Current pixel max max 869, last max 100
+Current pixel max max 710, last max 100
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  0
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1456, last max 100
+Current pixel max max 777, last max 100
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 1)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1462, last max 1456
+Current pixel max max 777, last max 777
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 2)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1463, last max 1462
+Current pixel max max 777, last max 777
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 3)
+Rcv-Cmd: 15, Type:  1, ErrCode:  a
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1466, last max 1463
+Current pixel max max 777, last max 777
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 4)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1448, last max 1466
+Current pixel max max 793, last max 777
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 5)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1453, last max 1448
+Current pixel max max 777, last max 793
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 6)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1450, last max 1453
+Current pixel max max 777, last max 777
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 7)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1456, last max 1450
+Current pixel max max 765, last max 777
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 8)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1448, last max 1456
+Current pixel max max 768, last max 765
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 9)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1440, last max 1448
+Current pixel max max 765, last max 768
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 10)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1448, last max 1440
+Current pixel max max 759, last max 765
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 11)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1445, last max 1448
+Current pixel max max 761, last max 759
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 12)
+Rcv-Cmd: 15, Type:  1, ErrCode:  a
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1440, last max 1445
+Current pixel max max 764, last max 761
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 13)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1440, last max 1440
+Current pixel max max 761, last max 764
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 14)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1446, last max 1440
+Current pixel max max 752, last max 761
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 15)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1440, last max 1446
+Current pixel max max 762, last max 752
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 16)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1434, last max 1440
+Current pixel max max 748, last max 762
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 17)
+Rcv-Cmd: 15, Type:  1, ErrCode:  a
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1441, last max 1434
+Current pixel max max 750, last max 748
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 18)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1441, last max 1441
+Current pixel max max 761, last max 750
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 19)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1436, last max 1441
+Current pixel max max 755, last max 761
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 20)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1436, last max 1436
+Current pixel max max 756, last max 755
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 21)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1447, last max 1436
+Current pixel max max 761, last max 756
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 22)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1451, last max 1447
+Current pixel max max 793, last max 761
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 23)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1478, last max 1451
+Current pixel max max 810, last max 793
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 24)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1502, last max 1478
+Current pixel max max 842, last max 810
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 25)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1520, last max 1502
+Current pixel max max 872, last max 842
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 26)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1540, last max 1520
+Current pixel max max 895, last max 872
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 27)
+Rcv-Cmd: 15, Type:  1, ErrCode:  a
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1550, last max 1540
+Current pixel max max 919, last max 895
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 28)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1573, last max 1550
+Current pixel max max 938, last max 919
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 29)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1581, last max 1573
+Current pixel max max 969, last max 938
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 30)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1595, last max 1581
+Current pixel max max 996, last max 969
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 31)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1611, last max 1595
+Current pixel max max 1033, last max 996
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 32)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1614, last max 1611
+Current pixel max max 1046, last max 1033
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 33)
+Rcv-Cmd: 15, Type:  1, ErrCode:  a
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1629, last max 1614
+Current pixel max max 1084, last max 1046
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 34)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1634, last max 1629
+Current pixel max max 1118, last max 1084
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 35)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1646, last max 1634
+Current pixel max max 1151, last max 1118
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 36)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1639, last max 1646
+Current pixel max max 1198, last max 1151
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 37)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1646, last max 1639
+Current pixel max max 1226, last max 1198
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 38)
+Rcv-Cmd: 15, Type:  1, ErrCode:  a
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1655, last max 1646
+Current pixel max max 1289, last max 1226
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 39)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1658, last max 1655
+Current pixel max max 1296, last max 1289

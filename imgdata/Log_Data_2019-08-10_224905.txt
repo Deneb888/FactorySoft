@@ -1,0 +1,24 @@
+ÏµÍ³±àºÅ: F-1-22
+2019-08-10_22:48:37
+Current pixel max max 129, last max 100
+Current pixel max max 117, last max 100
+Ch: 1, Max read: 36, int time: 7.48
+Ch: 2, Max read: 44, int time: 7.45
+Current pixel max max 129, last max 129
+Current pixel max max 112, last max 117
+Ch: 1, Max read: 45, int time: 13.93
+Ch: 2, Max read: 32, int time: 13.95
+Current pixel max max 129, last max 129
+Current pixel max max 119, last max 112
+Ch: 1, Max read: 44, int time: 20.39
+Ch: 2, Max read: 44, int time: 20.40
+Current pixel max max 129, last max 129
+Current pixel max max 112, last max 119
+Ch: 1, Max read: 54, int time: 26.81
+Ch: 2, Max read: 43, int time: 26.86
+Current pixel max max 113, last max 129
+Current pixel max max 117, last max 112
+Ch: 1, Max read: 35, int time: 33.29
+Ch: 2, Max read: 46, int time: 33.31
+Current pixel max max 129, last max 113
+Current pixel max max 123, last max 117

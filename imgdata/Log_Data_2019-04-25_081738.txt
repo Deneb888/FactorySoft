@@ -1,0 +1,26 @@
+Overflow detected max 3941, last max 100
+Current pixel max max 902, last max 100
+Overflow detected max 3946, last max 1970
+Current pixel max max 906, last max 902
+Overflow detected max 3937, last max 1973
+Current pixel max max 890, last max 906
+Overflow detected max 3938, last max 1968
+Current pixel max max 903, last max 890
+Overflow detected max 3945, last max 1969
+Current pixel max max 904, last max 903
+Overflow detected max 3394, last max 1972
+Current pixel max max 903, last max 904
+Overflow detected max 3467, last max 1697
+Current pixel max max 909, last max 903
+Overflow detected max 3942, last max 1733
+Current pixel max max 905, last max 909
+Overflow detected max 3942, last max 1971
+Current pixel max max 897, last max 905
+Overflow detected max 3944, last max 1971
+Current pixel max max 903, last max 897
+Overflow detected max 3938, last max 1972
+Current pixel max max 589, last max 903
+Overflow detected max 3941, last max 1969
+Current pixel max max 586, last max 589
+Overflow detected max 3932, last max 1970
+Current pixel max max 584, last max 586

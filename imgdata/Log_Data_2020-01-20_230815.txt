@@ -1,0 +1,82 @@
+XXXX USB ReattachXXXXX!
+eeprom read data: 0
+ab(P)
+eeprom read data: 1
+30(P)
+eeprom read data: 2
+3a(P)
+eeprom read data: 3
+27(P)
+eeprom read data: 4
+54(P)
+eeprom read data: 5
+71(P)
+eeprom read data: 6
+f6(P)
+eeprom read data: 7
+e8(P)
+eeprom read data: 8
+52(P)
+eeprom read data: 9
+6c(P)
+eeprom read data: 10
+03(P)
+eeprom read data: 11
+5b(P)
+eeprom read data: 12
+0d(P)
+eeprom read data: 13
+ad(P)
+eeprom read data: 14
+f9(P)
+eeprom read data: 15
+8c(P)
+eeprom read data: 16
+aa(P)
+eeprom read data: 17
+95(P)
+eeprom read data: 18
+1c(P)
+eeprom read data: 19
+d2(P)
+eeprom read data: 20
+c2(P)
+eeprom read data: 21
+16(P)
+Current pixel max max 425, last max 100
+Current pixel max max 888, last max 100
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  0
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 338, last max 100
+Current pixel max max 745, last max 100
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 1)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 341, last max 338
+Current pixel max max 771, last max 745
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 2)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 340, last max 341
+Current pixel max max 790, last max 771
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 3)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 345, last max 340
+Current pixel max max 803, last max 790
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 4)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 342, last max 345
+Current pixel max max 798, last max 803
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 5)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 357, last max 342
+Current pixel max max 799, last max 798

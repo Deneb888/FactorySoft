@@ -1,0 +1,47 @@
+XXXX USB ReattachXXXXX!
+eeprom read data: 0
+ab(P)
+eeprom read data: 1
+30(P)
+eeprom read data: 2
+3a(P)
+eeprom read data: 3
+27(P)
+eeprom read data: 4
+54(P)
+eeprom read data: 5
+71(P)
+eeprom read data: 6
+f6(P)
+eeprom read data: 7
+e8(P)
+eeprom read data: 8
+52(P)
+eeprom read data: 9
+6c(P)
+eeprom read data: 10
+03(P)
+eeprom read data: 11
+5b(P)
+eeprom read data: 12
+0d(P)
+eeprom read data: 13
+ad(P)
+eeprom read data: 14
+f9(P)
+eeprom read data: 15
+8c(P)
+eeprom read data: 16
+aa(P)
+eeprom read data: 17
+95(P)
+eeprom read data: 18
+1c(P)
+eeprom read data: 19
+d2(P)
+eeprom read data: 20
+c2(P)
+eeprom read data: 21
+16(P)
+Current pixel max max 425, last max 100
+Current pixel max max 888, last max 100

@@ -1,0 +1,94 @@
+eeprom read data: 0
+9b(P)
+eeprom read data: 1
+fe(P)
+eeprom read data: 2
+58(P)
+eeprom read data: 3
+11(P)
+eeprom read data: 4
+36(P)
+eeprom read data: 5
+97(P)
+eeprom read data: 6
+38(P)
+eeprom read data: 7
+7f(P)
+eeprom read data: 8
+0c(P)
+eeprom read data: 9
+3c(P)
+eeprom read data: 10
+83(P)
+eeprom read data: 11
+51(P)
+eeprom read data: 12
+63(P)
+eeprom read data: 13
+94(P)
+eeprom read data: 14
+7a(P)
+eeprom read data: 15
+3c(P)
+eeprom read data: 16
+b2(P)
+eeprom read data: 17
+a3(P)
+eeprom read data: 18
+2e(P)
+eeprom read data: 19
+cd(P)
+eeprom read data: 20
+8c(P)
+eeprom read data: 21
+a6(P)
+Current pixel max max 143, last max 100
+Current pixel max max 113, last max 100
+Ch: 1, Max read: 158, int time: 7.08
+Ch: 2, Max read: 42, int time: 7.46
+Current pixel max max 303, last max 143
+Current pixel max max 130, last max 113
+Ch: 1, Max read: 628, int time: 11.61
+Ch: 2, Max read: 104, int time: 13.72
+Current pixel max max 409, last max 303
+Current pixel max max 149, last max 130
+Ch: 1, Max read: 939, int time: 15.11
+Ch: 2, Max read: 163, int time: 19.78
+Current pixel max max 512, last max 409
+Current pixel max max 180, last max 149
+Ch: 1, Max read: 1249, int time: 17.59
+Ch: 2, Max read: 243, int time: 25.58
+Current pixel max max 558, last max 512
+Current pixel max max 219, last max 180
+Ch: 1, Max read: 1450, int time: 19.40
+Ch: 2, Max read: 359, int time: 30.99
+Current pixel max max 607, last max 558
+Current pixel max max 253, last max 219
+Ch: 1, Max read: 1593, int time: 20.74
+Ch: 2, Max read: 453, int time: 36.10
+Current pixel max max 639, last max 607
+Current pixel max max 271, last max 253
+Ch: 1, Max read: 1679, int time: 21.80
+Ch: 2, Max read: 523, int time: 40.97
+Current pixel max max 704, last max 639
+Current pixel max max 290, last max 271
+Ch: 1, Max read: 1882, int time: 22.19
+Ch: 2, Max read: 570, int time: 45.69
+Current pixel max max 736, last max 704
+Current pixel max max 314, last max 290
+Ch: 1, Max read: 1990, int time: 22.23
+Ch: 2, Max read: 646, int time: 50.16
+Current pixel max max 736, last max 736
+Current pixel max max 330, last max 314
+Ch: 1, Max read: 1975, int time: 22.31
+Ch: 2, Max read: 690, int time: 54.48
+Current pixel max max 736, last max 736
+Current pixel max max 350, last max 330
+Ch: 1, Max read: 1968, int time: 22.41
+Ch: 2, Max read: 753, int time: 58.60
+Current pixel max max 736, last max 736
+Current pixel max max 367, last max 350
+Ch: 1, Max read: 1985, int time: 22.46
+Ch: 2, Max read: 802, int time: 62.55
+Current pixel max max 736, last max 736
+Current pixel max max 382, last max 367

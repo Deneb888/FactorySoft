@@ -1,0 +1,96 @@
+Overflow detected max 3888, last max 100
+Current pixel max max 787, last max 100
+Current pixel max max 779, last max 787
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+lid open
+main power on: 0
+Current pixel max max 773, last max 779
+Current pixel max max 784, last max 773
+Current pixel max max 788, last max 784
+Overflow detected max 3974, last max 1944
+Current pixel max max 790, last max 788
+Overflow detected max 3948, last max 1987
+Current pixel max max 783, last max 790
+Overflow detected max 3952, last max 1974
+Current pixel max max 777, last max 783
+Overflow detected max 3940, last max 1976
+Current pixel max max 783, last max 777
+Overflow detected max 3944, last max 1970
+Current pixel max max 783, last max 783
+Overflow detected max 3942, last max 1972
+Current pixel max max 784, last max 783
+Overflow detected max 3941, last max 1971
+Current pixel max max 783, last max 784

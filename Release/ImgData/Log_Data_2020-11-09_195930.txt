@@ -1,0 +1,91 @@
+eeprom read data: 0
+94(P) Parity OK.
+eeprom read data: 1
+ec(P) Parity OK.
+eeprom read data: 2
+51(P) Parity OK.
+eeprom read data: 3
+3c(P) Parity OK.
+eeprom read data: 4
+ac(P) Parity OK.
+eeprom read data: 5
+7d(P) Parity OK.
+eeprom read data: 6
+0e(P) Parity OK.
+eeprom read data: 7
+02(P) Parity OK.
+eeprom read data: 8
+6f(P) Parity OK.
+eeprom read data: 9
+05(P) Parity OK.
+eeprom read data: 10
+2e(P) Parity OK.
+eeprom read data: 11
+31(P) Parity OK.
+eeprom read data: 12
+b2(P) Parity OK.
+eeprom read data: 13
+1c(P) Parity OK.
+eeprom read data: 14
+f4(P) Parity OK.
+eeprom read data: 15
+90(P) Parity OK.
+eeprom read data: 16
+e9(P) Parity OK.
+eeprom read data: 17
+48(P) Parity OK.
+eeprom read data: 18
+cc(P) Parity OK.
+eeprom read data: 19
+c4(P) Parity OK.
+eeprom read data: 20
+7f(P) Parity OK.
+eeprom read data: 21
+a0(P) Parity OK.
+eeprom read data: 22
+ed(P) Parity OK.
+eeprom read data: 23
+73(P) Parity OK.
+eeprom read data: 24
+81(P) Parity OK.
+eeprom read data: 25
+83(P) Parity OK.
+eeprom read data: 26
+9a(P) Parity OK.
+eeprom read data: 27
+e9(P) Parity OK.
+Current pixel max max 351, last max 100
+Current pixel max max 954, last max 100
+Current pixel max max 349, last max 351
+Current pixel max max 947, last max 954
+Current pixel max max 144, last max 100
+Current pixel max max 136, last max 100
+Current pixel max max 117, last max 349
+Current pixel max max 127, last max 947
+Current pixel max max 522, last max 144
+Current pixel max max 366, last max 136
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  0
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 436, last max 100
+Current pixel max max 806, last max 100
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 1)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 468, last max 436
+Current pixel max max 879, last max 806
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 2)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 480, last max 468
+Current pixel max max 895, last max 879
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 3)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 483, last max 480
+Current pixel max max 895, last max 895

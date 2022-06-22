@@ -1,0 +1,124 @@
+eeprom read data: 0
+f0(P)
+eeprom read data: 1
+3c(P)
+eeprom read data: 2
+c3(P)
+eeprom read data: 3
+5b(P)
+eeprom read data: 4
+0c(P)
+eeprom read data: 5
+6a(P)
+eeprom read data: 6
+87(P)
+eeprom read data: 7
+0a(P)
+eeprom read data: 8
+66(P)
+eeprom read data: 9
+37(P)
+eeprom read data: 10
+c8(P)
+eeprom read data: 11
+ca(P)
+eeprom read data: 12
+47(P)
+eeprom read data: 13
+0c(P)
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  0
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 792, last max 100
+Overflow detected max 3848, last max 100
+Chan 2, IntTime factor 0.50
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 1)
+Rcv-Cmd: 15, Type:  1, ErrCode:  a
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 796, last max 792
+Current pixel max max 2343, last max 3848
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 2)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 802, last max 796
+Current pixel max max 2342, last max 2343
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 3)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 804, last max 802
+Current pixel max max 2332, last max 2342
+Poll cycler status...(one shot)
+Stop polling Gra HID (kill timer 2)
+Temp Control Test Status:
+Maxramp: 6.34(degree/s), Error 0.298(degree)
+Period2 ramp_up: 5.72(degree/s), Error 9.267(degree)
+Period2 ramp_down: -4.53(degree/s), Error 34.711(degree)
+Denature period: 9.13(sec),  Annealing period: 11.15(sec)
+Current pixel max max 171, last max 804
+Current pixel max max 155, last max 2332
+Ch: 1, Max read: 204, int time: 6.93, gain: 29.45
+Ch: 2, Max read: 136, int time: 7.15, gain: 19.02
+Current pixel max max 366, last max 171
+Current pixel max max 411, last max 155
+Ch: 1, Max read: 926, int time: 10.47, gain: 88.43
+Ch: 2, Max read: 766, int time: 11.22, gain: 68.25
+Current pixel max max 551, last max 366
+Current pixel max max 589, last max 411
+Ch: 1, Max read: 1538, int time: 12.00, gain: 128.21
+Ch: 2, Max read: 1173, int time: 13.95, gain: 84.07
+Current pixel max max 593, last max 551
+Current pixel max max 670, last max 589
+Ch: 1, Max read: 1686, int time: 13.03, gain: 129.38
+Ch: 2, Max read: 1379, int time: 16.00, gain: 86.18
+Current pixel max max 684, last max 593
+Current pixel max max 801, last max 670
+Ch: 1, Max read: 2014, int time: 12.99, gain: 155.09
+Ch: 2, Max read: 1702, int time: 16.99, gain: 100.20
+Current pixel max max 645, last max 684
+Current pixel max max 801, last max 801
+Ch: 1, Max read: 1877, int time: 13.39, gain: 140.16
+Ch: 2, Max read: 1703, int time: 17.97, gain: 94.79
+Current pixel max max 706, last max 645
+Current pixel max max 846, last max 801
+Ch: 1, Max read: 2034, int time: 13.28, gain: 153.17
+Ch: 2, Max read: 1789, int time: 18.66, gain: 95.87
+Current pixel max max 713, last max 706
+Current pixel max max 882, last max 846
+Ch: 1, Max read: 2062, int time: 13.07, gain: 157.71
+Ch: 2, Max read: 1896, int time: 19.00, gain: 99.76
+Current pixel max max 684, last max 713
+Current pixel max max 922, last max 882
+Ch: 1, Max read: 2018, int time: 13.02, gain: 155.05
+Ch: 2, Max read: 1991, int time: 19.03, gain: 104.60
+Current pixel max max 705, last max 684
+Current pixel max max 920, last max 922
+Ch: 1, Max read: 2028, int time: 12.92, gain: 156.93
+Ch: 2, Max read: 2003, int time: 19.02, gain: 105.28
+Current pixel max max 646, last max 705
+Current pixel max max 924, last max 920
+Ch: 1, Max read: 1872, int time: 13.35, gain: 140.27
+Ch: 2, Max read: 2009, int time: 18.99, gain: 105.77
+Current pixel max max 706, last max 646
+Current pixel max max 882, last max 924
+Ch: 1, Max read: 2040, int time: 13.21, gain: 154.39
+Ch: 2, Max read: 1877, int time: 19.40, gain: 96.75
+Current pixel max max 680, last max 706
+Current pixel max max 921, last max 882
+Ch: 1, Max read: 1996, int time: 13.23, gain: 150.91
+Ch: 2, Max read: 2002, int time: 19.39, gain: 103.23
+Current pixel max max 684, last max 680
+Current pixel max max 921, last max 921
+Ch: 1, Max read: 2023, int time: 13.15, gain: 153.83
+Ch: 2, Max read: 1997, int time: 19.40, gain: 102.92
+Current pixel max max 678, last max 684
+Current pixel max max 924, last max 921
+Ch: 1, Max read: 1997, int time: 13.16, gain: 151.74
+Ch: 2, Max read: 2000, int time: 19.40, gain: 103.07
+Current pixel max max 683, last max 678
+Current pixel max max 919, last max 924

@@ -1,0 +1,82 @@
+eeprom read data: 0
+9b(P)
+eeprom read data: 1
+fe(P)
+eeprom read data: 2
+58(P)
+eeprom read data: 3
+11(P)
+eeprom read data: 4
+36(P)
+eeprom read data: 5
+97(P)
+eeprom read data: 6
+38(P)
+eeprom read data: 7
+7f(P)
+eeprom read data: 8
+0c(P)
+eeprom read data: 9
+3c(P)
+eeprom read data: 10
+83(P)
+eeprom read data: 11
+51(P)
+eeprom read data: 12
+63(P)
+eeprom read data: 13
+94(P)
+eeprom read data: 14
+7a(P)
+eeprom read data: 15
+3c(P)
+eeprom read data: 16
+b2(P)
+eeprom read data: 17
+a3(P)
+eeprom read data: 18
+2e(P)
+eeprom read data: 19
+cd(P)
+eeprom read data: 20
+8c(P)
+eeprom read data: 21
+a6(P)
+Current pixel max max 143, last max 100
+Current pixel max max 119, last max 100
+Ch: 1, Max read: 96, int time: 7.28
+Ch: 2, Max read: 40, int time: 7.47
+Current pixel max max 129, last max 143
+Current pixel max max 113, last max 119
+Ch: 1, Max read: 81, int time: 13.62
+Ch: 2, Max read: 29, int time: 13.97
+Current pixel max max 129, last max 129
+Current pixel max max 116, last max 113
+Ch: 1, Max read: 78, int time: 19.96
+Ch: 2, Max read: 47, int time: 20.42
+Current pixel max max 129, last max 129
+Current pixel max max 116, last max 116
+Ch: 1, Max read: 80, int time: 26.29
+Ch: 2, Max read: 47, int time: 26.86
+Current pixel max max 129, last max 129
+Current pixel max max 120, last max 116
+Ch: 1, Max read: 73, int time: 32.65
+Ch: 2, Max read: 56, int time: 33.28
+Current pixel max max 145, last max 129
+Current pixel max max 121, last max 120
+Ch: 1, Max read: 69, int time: 39.03
+Ch: 2, Max read: 60, int time: 39.68
+Current pixel max max 129, last max 145
+Current pixel max max 123, last max 121
+Ch: 1, Max read: 87, int time: 45.34
+Ch: 2, Max read: 74, int time: 46.04
+Current pixel max max 129, last max 129
+Current pixel max max 120, last max 123
+Ch: 1, Max read: 90, int time: 51.64
+Ch: 2, Max read: 57, int time: 52.45
+Current pixel max max 129, last max 129
+Current pixel max max 121, last max 120
+Ch: 1, Max read: 91, int time: 57.94
+Ch: 2, Max read: 70, int time: 58.82
+Current pixel max max 129, last max 129
+Current pixel max max 123, last max 121

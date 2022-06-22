@@ -1,0 +1,58 @@
+eeprom read data: 0
+f0(P) Parity OK.
+eeprom read data: 1
+3c(P) Parity OK.
+eeprom read data: 2
+c3(P) Parity OK.
+eeprom read data: 3
+5b(P) Parity OK.
+eeprom read data: 4
+0c(P) Parity OK.
+eeprom read data: 5
+6a(P) Parity OK.
+eeprom read data: 6
+87(P) Parity OK.
+eeprom read data: 7
+0a(P) Parity OK.
+eeprom read data: 8
+66(P) Parity OK.
+eeprom read data: 9
+37(P) Parity OK.
+eeprom read data: 10
+c8(P) Parity OK.
+eeprom read data: 11
+ca(P) Parity OK.
+eeprom read data: 12
+47(P) Parity OK.
+eeprom read data: 13
+0c(P) Parity OK.
+Current pixel max max 132, last max 100
+Current pixel max max 131, last max 100
+Ch: 1, Max read: 73, int time: 7.36, gain: 9.92
+Ch: 2, Max read: 84, int time: 7.32, gain: 11.47
+Current pixel max max 202, last max 132
+Current pixel max max 215, last max 131
+Ch: 1, Max read: 373, int time: 12.73, gain: 29.31
+Ch: 2, Max read: 311, int time: 12.90, gain: 24.12
+Current pixel max max 266, last max 202
+Current pixel max max 289, last max 215
+Ch: 1, Max read: 634, int time: 17.24, gain: 36.78
+Ch: 2, Max read: 508, int time: 17.82, gain: 28.51
+Current pixel max max 335, last max 266
+Current pixel max max 372, last max 289
+Ch: 1, Max read: 868, int time: 20.97, gain: 41.39
+Ch: 2, Max read: 730, int time: 22.01, gain: 33.17
+Current pixel max max 366, last max 335
+Current pixel max max 529, last max 372
+Ch: 1, Max read: 1002, int time: 24.26, gain: 41.29
+Ch: 2, Max read: 1083, int time: 25.04, gain: 43.26
+Current pixel max max 487, last max 366
+Current pixel max max 573, last max 529
+Ch: 1, Max read: 1395, int time: 26.26, gain: 53.12
+Ch: 2, Max read: 1201, int time: 27.67, gain: 43.40
+Current pixel max max 501, last max 487
+Current pixel max max 609, last max 573
+Ch: 1, Max read: 1509, int time: 27.88, gain: 54.12
+Ch: 2, Max read: 1282, int time: 30.04, gain: 42.67
+Current pixel max max 524, last max 501
+Current pixel max max 654, last max 609

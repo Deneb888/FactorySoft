@@ -1,0 +1,124 @@
+eeprom read data: 0
+9b(P)
+eeprom read data: 1
+fe(P)
+eeprom read data: 2
+58(P)
+eeprom read data: 3
+11(P)
+eeprom read data: 4
+36(P)
+eeprom read data: 5
+97(P)
+eeprom read data: 6
+38(P)
+eeprom read data: 7
+7f(P)
+eeprom read data: 8
+0c(P)
+eeprom read data: 9
+3c(P)
+eeprom read data: 10
+83(P)
+eeprom read data: 11
+51(P)
+eeprom read data: 12
+63(P)
+eeprom read data: 13
+94(P)
+eeprom read data: 14
+7a(P)
+eeprom read data: 15
+3c(P)
+eeprom read data: 16
+b2(P)
+eeprom read data: 17
+a3(P)
+eeprom read data: 18
+2e(P)
+eeprom read data: 19
+cd(P)
+eeprom read data: 20
+8c(P)
+eeprom read data: 21
+a6(P)
+Current pixel max max 143, last max 100
+Current pixel max max 117, last max 100
+Ch: 1, Max read: 140, int time: 7.14
+Ch: 2, Max read: 46, int time: 7.45
+Current pixel max max 274, last max 143
+Current pixel max max 130, last max 117
+Ch: 1, Max read: 513, int time: 12.05
+Ch: 2, Max read: 96, int time: 13.73
+Current pixel max max 385, last max 274
+Current pixel max max 149, last max 130
+Ch: 1, Max read: 871, int time: 15.77
+Ch: 2, Max read: 160, int time: 19.80
+Current pixel max max 445, last max 385
+Current pixel max max 173, last max 149
+Ch: 1, Max read: 1048, int time: 18.91
+Ch: 2, Max read: 216, int time: 25.69
+Current pixel max max 516, last max 445
+Current pixel max max 206, last max 173
+Ch: 1, Max read: 1268, int time: 21.33
+Ch: 2, Max read: 331, int time: 31.20
+Current pixel max max 605, last max 516
+Current pixel max max 230, last max 206
+Ch: 1, Max read: 1581, int time: 22.71
+Ch: 2, Max read: 403, int time: 36.47
+Current pixel max max 636, last max 605
+Current pixel max max 256, last max 230
+Ch: 1, Max read: 1659, int time: 23.84
+Ch: 2, Max read: 444, int time: 41.60
+Current pixel max max 655, last max 636
+Current pixel max max 266, last max 256
+Ch: 1, Max read: 1736, int time: 24.71
+Ch: 2, Max read: 493, int time: 46.58
+Current pixel max max 674, last max 655
+Current pixel max max 287, last max 266
+Ch: 1, Max read: 1813, int time: 25.32
+Ch: 2, Max read: 536, int time: 51.41
+Current pixel max max 696, last max 674
+Current pixel max max 301, last max 287
+Ch: 1, Max read: 1880, int time: 25.72
+Ch: 2, Max read: 600, int time: 56.03
+Current pixel max max 701, last max 696
+Current pixel max max 328, last max 301
+Ch: 1, Max read: 1895, int time: 26.07
+Ch: 2, Max read: 672, int time: 60.41
+Current pixel max max 720, last max 701
+Current pixel max max 331, last max 328
+Ch: 1, Max read: 1923, int time: 26.32
+Ch: 2, Max read: 694, int time: 64.72
+Current pixel max max 720, last max 720
+Current pixel max max 350, last max 331
+Ch: 1, Max read: 1942, int time: 26.51
+Ch: 2, Max read: 749, int time: 68.85
+Current pixel max max 720, last max 720
+Current pixel max max 359, last max 350
+Ch: 1, Max read: 1928, int time: 26.75
+Ch: 2, Max read: 787, int time: 72.85
+Current pixel max max 720, last max 720
+Current pixel max max 380, last max 359
+Ch: 1, Max read: 1935, int time: 26.96
+Ch: 2, Max read: 842, int time: 76.67
+Current pixel max max 720, last max 720
+Current pixel max max 390, last max 380
+Ch: 1, Max read: 1931, int time: 27.19
+Ch: 2, Max read: 869, int time: 80.40
+Int Time Calibration Done
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  0
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 635, last max 100
+Current pixel max max 342, last max 100
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 1)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 627, last max 635
+Current pixel max max 342, last max 342

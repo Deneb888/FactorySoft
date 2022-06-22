@@ -1,0 +1,79 @@
+eeprom read data: 0
+c5(P) Parity OK.
+eeprom read data: 1
+3c(P) Parity OK.
+eeprom read data: 2
+cc(P) Parity OK.
+eeprom read data: 3
+4c(P) Parity OK.
+eeprom read data: 4
+2d(P) Parity OK.
+eeprom read data: 5
+bf(P) Parity OK.
+eeprom read data: 6
+60(P) Parity OK.
+eeprom read data: 7
+bf(P) Parity OK.
+eeprom read data: 8
+f9(P) Parity OK.
+eeprom read data: 9
+58(P) Parity OK.
+eeprom read data: 10
+cd(P) Parity OK.
+eeprom read data: 11
+fe(P) Parity OK.
+eeprom read data: 12
+68(P) Parity OK.
+eeprom read data: 13
+8c(P) Parity OK.
+eeprom read data: 14
+57(P) Parity OK.
+eeprom read data: 15
+09(P) Parity OK.
+eeprom read data: 16
+01(P) Parity OK.
+eeprom read data: 17
+f1(P) Parity OK.
+eeprom read data: 18
+ec(P) Parity OK.
+eeprom read data: 19
+7c(P) Parity OK.
+eeprom read data: 20
+01(P) Parity OK.
+eeprom read data: 21
+d7(P) Parity OK.
+eeprom read data: 22
+99(P) Parity OK.
+eeprom read data: 23
+bd(P) Parity OK.
+eeprom read data: 24
+e3(P) Parity OK.
+eeprom read data: 25
+22(P) Parity OK.
+eeprom read data: 26
+e4(P) Parity OK.
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  0
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 398, last max 100
+Current pixel max max 151, last max 100
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 1)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 368, last max 398
+Current pixel max max 136, last max 151
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 2)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 375, last max 368
+Current pixel max max 139, last max 136
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 3)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 370, last max 375
+Current pixel max max 141, last max 139

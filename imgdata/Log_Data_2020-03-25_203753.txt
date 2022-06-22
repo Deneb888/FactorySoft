@@ -1,0 +1,30 @@
+eeprom read data: 0
+f0(P) Parity OK.
+eeprom read data: 1
+3c(P) Parity OK.
+eeprom read data: 2
+c3(P) Parity OK.
+eeprom read data: 3
+5b(P) Parity OK.
+eeprom read data: 4
+0c(P) Parity OK.
+eeprom read data: 5
+6a(P) Parity OK.
+eeprom read data: 6
+87(P) Parity OK.
+eeprom read data: 7
+0a(P) Parity OK.
+eeprom read data: 8
+66(P) Parity OK.
+eeprom read data: 9
+37(P) Parity OK.
+eeprom read data: 10
+c8(P) Parity OK.
+eeprom read data: 11
+ca(P) Parity OK.
+eeprom read data: 12
+47(P) Parity OK.
+eeprom read data: 13
+0c(P) Parity OK.
+Current pixel max max 132, last max 100
+Current pixel max max 131, last max 100

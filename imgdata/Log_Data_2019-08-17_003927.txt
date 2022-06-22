@@ -1,0 +1,62 @@
+eeprom read data: 0
+88(P)
+eeprom read data: 1
+2e(P)
+eeprom read data: 2
+fa(P)
+eeprom read data: 3
+fa(P)
+eeprom read data: 4
+d7(P)
+eeprom read data: 5
+7f(P)
+eeprom read data: 6
+36(P)
+eeprom read data: 7
+db(P)
+eeprom read data: 8
+fb(P)
+eeprom read data: 9
+4e(P)
+eeprom read data: 10
+e4(P)
+Current pixel max max 281, last max 100
+Current pixel max max 133, last max 100
+Current pixel max max 104, last max 281
+Current pixel max max 104, last max 133
+Ch: 1, Max read: 7, int time: 7.58, gain: 0.92
+Ch: 2, Max read: 0, int time: 7.60, gain: 0.00
+Current pixel max max 119, last max 104
+Current pixel max max 110, last max 104
+Ch: 1, Max read: 42, int time: 14.04, gain: 2.99
+Ch: 2, Max read: 18, int time: 14.14, gain: 1.27
+Current pixel max max 123, last max 119
+Current pixel max max 113, last max 110
+Ch: 1, Max read: 51, int time: 20.47, gain: 2.49
+Ch: 2, Max read: 23, int time: 20.66, gain: 1.11
+Current pixel max max 140, last max 123
+Current pixel max max 112, last max 113
+Ch: 1, Max read: 89, int time: 26.78, gain: 3.32
+Ch: 2, Max read: 42, int time: 27.13, gain: 1.55
+Current pixel max max 148, last max 140
+Current pixel max max 114, last max 112
+Ch: 1, Max read: 123, int time: 32.97, gain: 3.73
+Ch: 2, Max read: 35, int time: 33.61, gain: 1.04
+Current pixel max max 164, last max 148
+Current pixel max max 115, last max 114
+Ch: 1, Max read: 161, int time: 39.04, gain: 4.12
+Ch: 2, Max read: 37, int time: 40.09, gain: 0.92
+Current pixel max max 170, last max 164
+Current pixel max max 118, last max 115
+Ch: 1, Max read: 172, int time: 45.07, gain: 3.82
+Ch: 2, Max read: 48, int time: 46.53, gain: 1.03
+Current pixel max max 182, last max 170
+Current pixel max max 116, last max 118
+Ch: 1, Max read: 187, int time: 51.05, gain: 3.66
+Ch: 2, Max read: 43, int time: 52.99, gain: 0.81
+Current pixel max max 191, last max 182
+Current pixel max max 123, last max 116
+Ch: 1, Max read: 221, int time: 56.93, gain: 3.88
+Ch: 2, Max read: 53, int time: 59.41, gain: 0.89
+Current pixel max max 204, last max 191
+Current pixel max max 126, last max 123

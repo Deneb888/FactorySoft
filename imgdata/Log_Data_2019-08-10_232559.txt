@@ -1,0 +1,8 @@
+系统编号：F-1-22
+测试时间： 2019-08-10_23:25:30
+Current pixel max max 143, last max 100
+Current pixel max max 117, last max 100
+Ch: 1, Max read: 154, int time: 7.09
+Ch: 2, Max read: 43, int time: 7.46
+Current pixel max max 281, last max 143
+Current pixel max max 127, last max 117

@@ -1,0 +1,16 @@
+Current pixel max max 493, last max 100
+Current pixel max max 178, last max 100
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Current pixel max max 493, last max 493
+Current pixel max max 175, last max 178

@@ -1,0 +1,145 @@
+eeprom read data: 0
+f0(P) Parity OK.
+eeprom read data: 1
+3c(P) Parity OK.
+eeprom read data: 2
+c3(P) Parity OK.
+eeprom read data: 3
+5b(P) Parity OK.
+eeprom read data: 4
+0c(P) Parity OK.
+eeprom read data: 5
+6a(P) Parity OK.
+eeprom read data: 6
+87(P) Parity OK.
+eeprom read data: 7
+0a(P) Parity OK.
+eeprom read data: 8
+66(P) Parity OK.
+eeprom read data: 9
+37(P) Parity OK.
+eeprom read data: 10
+c8(P) Parity OK.
+eeprom read data: 11
+ca(P) Parity OK.
+eeprom read data: 12
+47(P) Parity OK.
+eeprom read data: 13
+0c(P) Parity OK.
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  0
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 263, last max 100
+Current pixel max max 1254, last max 100
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 1)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 266, last max 263
+Current pixel max max 1301, last max 1254
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 2)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 265, last max 266
+Current pixel max max 1322, last max 1301
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 3)
+Rcv-Cmd: 15, Type:  1, ErrCode:  a
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 270, last max 265
+Current pixel max max 1333, last max 1322
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 4)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 266, last max 270
+Current pixel max max 1337, last max 1333
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 5)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 266, last max 266
+Current pixel max max 1353, last max 1337
+Poll cycler status...(one shot)
+Stop polling Gra HID (kill timer 2)
+Temp Control Test Status:
+
+Maxramp: 6.16(degree/s), Error 0.278(degree), dt:  0.508(s)
+Period2 ramp_up: 5.42(degree/s), Error 0.415(degree)
+Period2 ramp_down: -4.80(degree/s), Error 0.399(degree)
+Denature period: 33.53(sec),  Annealing period: 38.11(sec)
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  7
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  7
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 263, last max 100
+Current pixel max max 1290, last max 100
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 1)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 270, last max 263
+Current pixel max max 1335, last max 1290
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 2)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 263, last max 270
+Current pixel max max 1341, last max 1335
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 3)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 270, last max 263
+Current pixel max max 1326, last max 1341
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 4)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 268, last max 270
+Current pixel max max 1338, last max 1326
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 5)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 265, last max 268
+Current pixel max max 1347, last max 1338
+Poll cycler status...(one shot)
+Stop polling Gra HID (kill timer 2)
+Temp Control Test Status:
+
+Maxramp: 6.56(degree/s), Error 0.286(degree), dt:  0.511(s)
+Period2 ramp_up: 5.67(degree/s), Error 0.442(degree)
+Period2 ramp_down: -4.68(degree/s), Error 0.330(degree)
+Denature period: 33.70(sec),  Annealing period: 38.30(sec)
+Current pixel max max 317, last max 265
+Current pixel max max 1661, last max 1347
+Current pixel max max 132, last max 317
+Current pixel max max 140, last max 1661
+Ch: 1, Max read: 52, int time: 7.43, gain: 7.00
+Ch: 2, Max read: 64, int time: 7.39, gain: 8.66
+Current pixel max max 179, last max 132
+Current pixel max max 194, last max 140
+Ch: 1, Max read: 302, int time: 13.03, gain: 23.17
+Ch: 2, Max read: 254, int time: 13.15, gain: 19.31
+Current pixel max max 245, last max 179
+Current pixel max max 285, last max 194
+Ch: 1, Max read: 541, int time: 17.85, gain: 30.31
+Ch: 2, Max read: 467, int time: 18.21, gain: 25.65
+Current pixel max max 286, last max 245
+Current pixel max max 352, last max 285
+Ch: 1, Max read: 722, int time: 22.06, gain: 32.72
+Ch: 2, Max read: 658, int time: 22.64, gain: 29.07
+Current pixel max max 397, last max 286
+Current pixel max max 494, last max 352
+Ch: 1, Max read: 1035, int time: 25.25, gain: 40.99
+Ch: 2, Max read: 998, int time: 25.94, gain: 38.47
+Current pixel max max 431, last max 397
+Current pixel max max 525, last max 494
+Ch: 1, Max read: 1171, int time: 27.98, gain: 41.85
+Ch: 2, Max read: 1079, int time: 28.98, gain: 37.23
+Current pixel max max 453, last max 431
+Current pixel max max 574, last max 525

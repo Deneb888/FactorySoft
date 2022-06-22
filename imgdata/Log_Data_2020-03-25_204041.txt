@@ -1,0 +1,95 @@
+eeprom read data: 0
+f0(P) Parity OK.
+eeprom read data: 1
+3c(P) Parity OK.
+eeprom read data: 2
+c3(P) Parity OK.
+eeprom read data: 3
+5b(P) Parity OK.
+eeprom read data: 4
+0c(P) Parity OK.
+eeprom read data: 5
+6a(P) Parity OK.
+eeprom read data: 6
+87(P) Parity OK.
+eeprom read data: 7
+0a(P) Parity OK.
+eeprom read data: 8
+66(P) Parity OK.
+eeprom read data: 9
+37(P) Parity OK.
+eeprom read data: 10
+c8(P) Parity OK.
+eeprom read data: 11
+ca(P) Parity OK.
+eeprom read data: 12
+47(P) Parity OK.
+eeprom read data: 13
+0c(P) Parity OK.
+Current pixel max max 132, last max 100
+Current pixel max max 131, last max 100
+Ch: 1, Max read: 73, int time: 7.36, gain: 9.92
+Ch: 2, Max read: 84, int time: 7.32, gain: 11.47
+Current pixel max max 202, last max 132
+Current pixel max max 215, last max 131
+Ch: 1, Max read: 373, int time: 12.73, gain: 29.31
+Ch: 2, Max read: 311, int time: 12.90, gain: 24.12
+Current pixel max max 266, last max 202
+Current pixel max max 289, last max 215
+Ch: 1, Max read: 634, int time: 17.24, gain: 36.78
+Ch: 2, Max read: 508, int time: 17.82, gain: 28.51
+Current pixel max max 335, last max 266
+Current pixel max max 372, last max 289
+Ch: 1, Max read: 868, int time: 20.97, gain: 41.39
+Ch: 2, Max read: 730, int time: 22.01, gain: 33.17
+Current pixel max max 366, last max 335
+Current pixel max max 529, last max 372
+Ch: 1, Max read: 1002, int time: 24.26, gain: 41.29
+Ch: 2, Max read: 1083, int time: 25.04, gain: 43.26
+Current pixel max max 487, last max 366
+Current pixel max max 573, last max 529
+Ch: 1, Max read: 1395, int time: 26.26, gain: 53.12
+Ch: 2, Max read: 1201, int time: 27.67, gain: 43.40
+Current pixel max max 501, last max 487
+Current pixel max max 609, last max 573
+Ch: 1, Max read: 1509, int time: 27.88, gain: 54.12
+Ch: 2, Max read: 1282, int time: 30.04, gain: 42.67
+Current pixel max max 524, last max 501
+Current pixel max max 654, last max 609
+Ch: 1, Max read: 1532, int time: 29.43, gain: 52.06
+Ch: 2, Max read: 1409, int time: 31.99, gain: 44.04
+Current pixel max max 542, last max 524
+Current pixel max max 666, last max 654
+Ch: 1, Max read: 1623, int time: 30.67, gain: 52.92
+Ch: 2, Max read: 1435, int time: 33.86, gain: 42.38
+Current pixel max max 569, last max 542
+Current pixel max max 710, last max 666
+Ch: 1, Max read: 1667, int time: 31.77, gain: 52.47
+Ch: 2, Max read: 1525, int time: 35.43, gain: 43.05
+Current pixel max max 574, last max 569
+Current pixel max max 733, last max 710
+Ch: 1, Max read: 1727, int time: 32.67, gain: 52.86
+Ch: 2, Max read: 1603, int time: 36.74, gain: 43.64
+Current pixel max max 584, last max 574
+Current pixel max max 754, last max 733
+Ch: 1, Max read: 1798, int time: 33.34, gain: 53.93
+Ch: 2, Max read: 1643, int time: 37.91, gain: 43.34
+Current pixel max max 598, last max 584
+Current pixel max max 765, last max 754
+Ch: 1, Max read: 1835, int time: 33.88, gain: 54.16
+Ch: 2, Max read: 1685, int time: 38.95, gain: 43.26
+Current pixel max max 607, last max 598
+Current pixel max max 784, last max 765
+Ch: 1, Max read: 1824, int time: 34.46, gain: 52.93
+Ch: 2, Max read: 1725, int time: 39.86, gain: 43.28
+Current pixel max max 619, last max 607
+Current pixel max max 796, last max 784
+Ch: 1, Max read: 1878, int time: 34.86, gain: 53.87
+Ch: 2, Max read: 1772, int time: 40.61, gain: 43.63
+Current pixel max max 621, last max 619
+Current pixel max max 815, last max 796
+Ch: 1, Max read: 1895, int time: 35.21, gain: 53.82
+Ch: 2, Max read: 1823, int time: 41.20, gain: 44.25
+Int Time Calibration Done
+Current pixel max max 622, last max 621
+Current pixel max max 835, last max 815

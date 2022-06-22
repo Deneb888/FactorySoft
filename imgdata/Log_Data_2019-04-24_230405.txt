@@ -1,0 +1,18 @@
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  0
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Stop polling Gra HID...(rData: 2)
+Overflow detected max 1860, last max 100
+Current pixel max max 667, last max 100
+Chan 1, IntTime factor 0.50
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 1)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  a
+Abort, stop Gra polling (kill timer 2)
+Current pixel max max 1684, last max 1860
+Current pixel max max 722, last max 667

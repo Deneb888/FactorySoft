@@ -1,0 +1,228 @@
+eeprom read data: 0
+f0(P)
+eeprom read data: 1
+3c(P)
+eeprom read data: 2
+c3(P)
+eeprom read data: 3
+5b(P)
+eeprom read data: 4
+0c(P)
+eeprom read data: 5
+6a(P)
+eeprom read data: 6
+87(P)
+eeprom read data: 7
+0a(P)
+eeprom read data: 8
+66(P)
+eeprom read data: 9
+37(P)
+eeprom read data: 10
+c8(P)
+eeprom read data: 11
+ca(P)
+eeprom read data: 12
+47(P)
+eeprom read data: 13
+0c(P)
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+lid open
+main power on: 1
+lid open
+main power on: 1
+lid open
+main power on: 1
+lid open
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+lid open
+main power on: 1
+lid open
+main power on: 1
+lid open
+main power on: 1
+lid open
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Current pixel max max 369, last max 100
+Overflow detected max 1885, last max 100

@@ -1,0 +1,8 @@
+Overflow detected max 2806, last max 100
+Current pixel max max 619, last max 100
+Current pixel max max 188, last max 1403
+Current pixel max max 239, last max 619
+Ch: 1, Max read: 237, int time: 6.82
+Ch: 2, Max read: 266, int time: 6.72
+Current pixel max max 475, last max 94
+Current pixel max max 239, last max 239

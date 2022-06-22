@@ -1,0 +1,59 @@
+eeprom read data: 0
+88(P)
+eeprom read data: 1
+2e(P)
+eeprom read data: 2
+fa(P)
+eeprom read data: 3
+fa(P)
+eeprom read data: 4
+d7(P)
+eeprom read data: 5
+7f(P)
+eeprom read data: 6
+36(P)
+eeprom read data: 7
+db(P)
+eeprom read data: 8
+fb(P)
+eeprom read data: 9
+4e(P)
+eeprom read data: 10
+e4(P)
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  0
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Stop polling Gra HID...(rData: 3)
+Overflow detected max 3559, last max 100
+Current pixel max max 721, last max 100
+Chan 1, IntTime factor 0.50
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 1)
+Stop polling Gra HID...(rData: 3)
+Overflow detected max 3544, last max 3559
+Current pixel max max 715, last max 721
+Chan 1, IntTime factor 0.25
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 2)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1845, last max 3544
+Current pixel max max 714, last max 715
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 3)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1841, last max 1845
+Current pixel max max 712, last max 714
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 4)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1843, last max 1841
+Current pixel max max 725, last max 712
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 5)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 1851, last max 1843
+Current pixel max max 722, last max 725

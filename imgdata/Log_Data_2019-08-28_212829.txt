@@ -1,0 +1,36 @@
+eeprom read data: 0
+f0(P)
+eeprom read data: 1
+3c(P)
+eeprom read data: 2
+c3(P)
+eeprom read data: 3
+5b(P)
+eeprom read data: 4
+0c(P)
+eeprom read data: 5
+6a(P)
+eeprom read data: 6
+87(P)
+eeprom read data: 7
+0a(P)
+eeprom read data: 8
+66(P)
+eeprom read data: 9
+37(P)
+eeprom read data: 10
+c8(P)
+eeprom read data: 11
+ca(P)
+eeprom read data: 12
+47(P)
+eeprom read data: 13
+0c(P)
+Current pixel max max 1193, last max 100
+Overflow detected max 3598, last max 100
+Current pixel max max 164, last max 1193
+Current pixel max max 162, last max 1799
+Ch: 1, Max read: 223, int time: 6.86, gain: 32.49
+Ch: 2, Max read: 135, int time: 7.15, gain: 18.87
+Current pixel max max 424, last max 164
+Current pixel max max 461, last max 81

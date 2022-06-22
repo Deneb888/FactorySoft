@@ -1,0 +1,28 @@
+eeprom read data: 0
+88(P)
+eeprom read data: 1
+2e(P)
+eeprom read data: 2
+fa(P)
+eeprom read data: 3
+fa(P)
+eeprom read data: 4
+d7(P)
+eeprom read data: 5
+7f(P)
+eeprom read data: 6
+36(P)
+eeprom read data: 7
+db(P)
+eeprom read data: 8
+fb(P)
+eeprom read data: 9
+4e(P)
+eeprom read data: 10
+e4(P)
+Current pixel max max 176, last max 100
+Current pixel max max 119, last max 100
+Ch: 1, Max read: 192, int time: 6.97, gain: 27.56
+Ch: 2, Max read: 44, int time: 7.45, gain: 5.90
+Current pixel max max 467, last max 176
+Current pixel max max 153, last max 119

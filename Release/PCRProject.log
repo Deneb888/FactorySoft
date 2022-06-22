@@ -1,0 +1,8 @@
+﻿  TrimReader.cpp
+c:\users\zding\documents\workarea\from p1\factory\pcrprojalpha53factory2020-01\mathround.cpp(10): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  4 of 4594 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PCRProject.vcxproj -> C:\Users\zding\Documents\WorkArea\From P1\Factory\PCRProjAlpha53Factory2020-01\Release\PCRProjectFactory.exe

@@ -1,0 +1,62 @@
+eeprom read data: 0
+9b(P)
+eeprom read data: 1
+fe(P)
+eeprom read data: 2
+58(P)
+eeprom read data: 3
+11(P)
+eeprom read data: 4
+36(P)
+eeprom read data: 5
+97(P)
+eeprom read data: 6
+38(P)
+eeprom read data: 7
+7f(P)
+eeprom read data: 8
+0c(P)
+eeprom read data: 9
+3c(P)
+eeprom read data: 10
+83(P)
+eeprom read data: 11
+51(P)
+eeprom read data: 12
+63(P)
+eeprom read data: 13
+94(P)
+eeprom read data: 14
+7a(P)
+eeprom read data: 15
+3c(P)
+eeprom read data: 16
+b2(P)
+eeprom read data: 17
+a3(P)
+eeprom read data: 18
+2e(P)
+eeprom read data: 19
+cd(P)
+eeprom read data: 20
+8c(P)
+eeprom read data: 21
+a6(P)
+Current pixel max max 143, last max 100
+Current pixel max max 120, last max 100
+Ch: 1, Max read: 145, int time: 7.12
+Ch: 2, Max read: 61, int time: 7.40
+Current pixel max max 280, last max 143
+Current pixel max max 133, last max 120
+Ch: 1, Max read: 542, int time: 11.93
+Ch: 2, Max read: 103, int time: 13.66
+Current pixel max max 367, last max 280
+Current pixel max max 147, last max 133
+Ch: 1, Max read: 803, int time: 15.88
+Ch: 2, Max read: 158, int time: 19.74
+Current pixel max max 448, last max 367
+Current pixel max max 169, last max 147
+Ch: 1, Max read: 1056, int time: 19.00
+Ch: 2, Max read: 223, int time: 25.60
+Current pixel max max 522, last max 448
+Current pixel max max 215, last max 169

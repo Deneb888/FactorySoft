@@ -1,0 +1,18 @@
+Overflow detected max 3394, last max 100
+Current pixel max max 913, last max 100
+Overflow detected max 3467, last max 1697
+Current pixel max max 899, last max 913
+Overflow detected max 3396, last max 1733
+Current pixel max max 894, last max 899
+Overflow detected max 3393, last max 1698
+Current pixel max max 895, last max 894
+Overflow detected max 3001, last max 1696
+Current pixel max max 677, last max 895
+Overflow detected max 3000, last max 1500
+Current pixel max max 672, last max 677
+Overflow detected max 3915, last max 1500
+Current pixel max max 292, last max 672
+Overflow detected max 3899, last max 1957
+Current pixel max max 286, last max 292
+Overflow detected max 3899, last max 1949
+Current pixel max max 895, last max 286

@@ -1,0 +1,242 @@
+eeprom read data: 0
+88(P)
+eeprom read data: 1
+2e(P)
+eeprom read data: 2
+fa(P)
+eeprom read data: 3
+fa(P)
+eeprom read data: 4
+d7(P)
+eeprom read data: 5
+7f(P)
+eeprom read data: 6
+36(P)
+eeprom read data: 7
+db(P)
+eeprom read data: 8
+fb(P)
+eeprom read data: 9
+4e(P)
+eeprom read data: 10
+e4(P)
+Current pixel max max 176, last max 100
+Current pixel max max 119, last max 100
+Ch: 1, Max read: 192, int time: 6.97, gain: 27.56
+Ch: 2, Max read: 44, int time: 7.45, gain: 5.90
+Current pixel max max 467, last max 176
+Current pixel max max 153, last max 119
+Ch: 1, Max read: 884, int time: 10.65, gain: 83.01
+Ch: 2, Max read: 139, int time: 13.60, gain: 10.22
+Current pixel max max 709, last max 467
+Current pixel max max 183, last max 153
+Ch: 1, Max read: 1460, int time: 12.43, gain: 117.45
+Ch: 2, Max read: 230, int time: 19.44, gain: 11.83
+Current pixel max max 836, last max 709
+Current pixel max max 235, last max 183
+Ch: 1, Max read: 1748, int time: 13.26, gain: 131.80
+Ch: 2, Max read: 316, int time: 24.99, gain: 12.64
+Current pixel max max 886, last max 836
+Current pixel max max 303, last max 235
+Ch: 1, Max read: 1880, int time: 13.66, gain: 137.64
+Ch: 2, Max read: 529, int time: 29.85, gain: 17.72
+Current pixel max max 880, last max 886
+Current pixel max max 342, last max 303
+Ch: 1, Max read: 1869, int time: 14.09, gain: 132.64
+Ch: 2, Max read: 642, int time: 34.33, gain: 18.70
+Current pixel max max 940, last max 880
+Current pixel max max 368, last max 342
+Ch: 1, Max read: 2007, int time: 14.07, gain: 142.66
+Ch: 2, Max read: 735, int time: 38.50, gain: 19.09
+Current pixel max max 935, last max 940
+Current pixel max max 392, last max 368
+Ch: 1, Max read: 1996, int time: 14.08, gain: 141.75
+Ch: 2, Max read: 799, int time: 42.47, gain: 18.81
+Current pixel max max 930, last max 935
+Current pixel max max 419, last max 392
+Ch: 1, Max read: 2003, int time: 14.07, gain: 142.35
+Ch: 2, Max read: 854, int time: 46.25, gain: 18.47
+Current pixel max max 940, last max 930
+Current pixel max max 442, last max 419
+Ch: 1, Max read: 1995, int time: 14.09, gain: 141.61
+Ch: 2, Max read: 934, int time: 49.77, gain: 18.77
+Current pixel max max 941, last max 940
+Current pixel max max 460, last max 442
+Ch: 1, Max read: 2001, int time: 14.08, gain: 142.07
+Ch: 2, Max read: 994, int time: 53.09, gain: 18.72
+Current pixel max max 937, last max 941
+Current pixel max max 483, last max 460
+Ch: 1, Max read: 2009, int time: 14.05, gain: 142.94
+Ch: 2, Max read: 1055, int time: 56.21, gain: 18.77
+Current pixel max max 937, last max 937
+Current pixel max max 511, last max 483
+Ch: 1, Max read: 2000, int time: 14.05, gain: 142.30
+Ch: 2, Max read: 1126, int time: 59.09, gain: 19.06
+Current pixel max max 936, last max 937
+Current pixel max max 539, last max 511
+Ch: 1, Max read: 2006, int time: 14.03, gain: 142.93
+Ch: 2, Max read: 1216, int time: 61.68, gain: 19.72
+Current pixel max max 941, last max 936
+Current pixel max max 559, last max 539
+Ch: 1, Max read: 2009, int time: 14.01, gain: 143.45
+Ch: 2, Max read: 1258, int time: 64.13, gain: 19.62
+Current pixel max max 933, last max 941
+Current pixel max max 581, last max 559
+Ch: 1, Max read: 1994, int time: 14.03, gain: 142.17
+Ch: 2, Max read: 1360, int time: 66.24, gain: 20.53
+Int Time Calibration Done
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  0
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 803, last max 100
+Current pixel max max 503, last max 100
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 1)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 795, last max 803
+Current pixel max max 494, last max 503
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 2)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 802, last max 795
+Current pixel max max 493, last max 494
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 3)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 808, last max 802
+Current pixel max max 496, last max 493
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 4)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 806, last max 808
+Current pixel max max 504, last max 496
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 5)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 813, last max 806
+Current pixel max max 499, last max 504
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 6)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 814, last max 813
+Current pixel max max 496, last max 499
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 7)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 818, last max 814
+Current pixel max max 498, last max 496
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 8)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 821, last max 818
+Current pixel max max 511, last max 498
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 9)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 814, last max 821
+Current pixel max max 501, last max 511
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 10)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 822, last max 814
+Current pixel max max 505, last max 501
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 11)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 829, last max 822
+Current pixel max max 513, last max 505
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 12)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 831, last max 829
+Current pixel max max 508, last max 513
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 13)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 835, last max 831
+Current pixel max max 512, last max 508
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 14)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 838, last max 835
+Current pixel max max 513, last max 512
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 15)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 834, last max 838
+Current pixel max max 510, last max 513
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 16)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 838, last max 834
+Current pixel max max 520, last max 510
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 17)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 838, last max 838
+Current pixel max max 513, last max 520
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 18)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 845, last max 838
+Current pixel max max 510, last max 513
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 19)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 841, last max 845
+Current pixel max max 522, last max 510
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 20)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 843, last max 841
+Current pixel max max 521, last max 522
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 21)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 849, last max 843
+Current pixel max max 519, last max 521
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 22)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 849, last max 849
+Current pixel max max 513, last max 519
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 23)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 852, last max 849
+Current pixel max max 524, last max 513
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 24)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 866, last max 852
+Current pixel max max 528, last max 524
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 25)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 856, last max 866
+Current pixel max max 531, last max 528
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 26)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 866, last max 856
+Current pixel max max 529, last max 531
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 27)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 863, last max 866
+Current pixel max max 530, last max 529
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 28)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 870, last max 863
+Current pixel max max 534, last max 530
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 29)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 873, last max 870
+Current pixel max max 539, last max 534

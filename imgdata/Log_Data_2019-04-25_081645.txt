@@ -1,0 +1,10 @@
+Overflow detected max 3941, last max 100
+Current pixel max max 902, last max 100
+Overflow detected max 3946, last max 1970
+Current pixel max max 906, last max 902
+Overflow detected max 3937, last max 1973
+Current pixel max max 890, last max 906
+Overflow detected max 3938, last max 1968
+Current pixel max max 903, last max 890
+Overflow detected max 3945, last max 1969
+Current pixel max max 904, last max 903

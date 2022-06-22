@@ -1,0 +1,86 @@
+eeprom read data: 0
+88(P)
+eeprom read data: 1
+2e(P)
+eeprom read data: 2
+fa(P)
+eeprom read data: 3
+fa(P)
+eeprom read data: 4
+d7(P)
+eeprom read data: 5
+7f(P)
+eeprom read data: 6
+36(P)
+eeprom read data: 7
+db(P)
+eeprom read data: 8
+fb(P)
+eeprom read data: 9
+4e(P)
+eeprom read data: 10
+e4(P)
+Overflow detected max 3891, last max 100
+Current pixel max max 942, last max 100
+Current pixel max max 199, last max 1945
+Current pixel max max 112, last max 942
+Ch: 1, Max read: 202, int time: 6.93, gain: 29.13
+Ch: 2, Max read: 31, int time: 7.50, gain: 4.13
+Current pixel max max 609, last max 99
+Current pixel max max 156, last max 112
+Ch: 1, Max read: 1018, int time: 10.17, gain: 100.06
+Ch: 2, Max read: 155, int time: 13.59, gain: 11.41
+Current pixel max max 952, last max 304
+Current pixel max max 196, last max 156
+Ch: 1, Max read: 1699, int time: 11.17, gain: 152.14
+Ch: 2, Max read: 268, int time: 19.30, gain: 13.88
+Current pixel max max 1044, last max 476
+Current pixel max max 234, last max 196
+Ch: 1, Max read: 1865, int time: 11.61, gain: 160.60
+Ch: 2, Max read: 381, int time: 24.64, gain: 15.46
+Current pixel max max 1047, last max 522
+Current pixel max max 324, last max 234
+Ch: 1, Max read: 1866, int time: 12.06, gain: 154.79
+Ch: 2, Max read: 572, int time: 29.36, gain: 19.48
+Current pixel max max 1135, last max 523
+Current pixel max max 359, last max 324
+Ch: 1, Max read: 2060, int time: 11.86, gain: 173.74
+Ch: 2, Max read: 665, int time: 33.76, gain: 19.70
+Current pixel max max 1053, last max 567
+Current pixel max max 392, last max 359
+Ch: 1, Max read: 1877, int time: 12.26, gain: 153.06
+Ch: 2, Max read: 781, int time: 37.79, gain: 20.67
+Current pixel max max 1123, last max 526
+Current pixel max max 425, last max 392
+Ch: 1, Max read: 2050, int time: 12.10, gain: 169.45
+Ch: 2, Max read: 897, int time: 41.43, gain: 21.65
+Current pixel max max 1139, last max 561
+Current pixel max max 456, last max 425
+Ch: 1, Max read: 2054, int time: 11.92, gain: 172.32
+Ch: 2, Max read: 1005, int time: 44.71, gain: 22.48
+Current pixel max max 1053, last max 569
+Current pixel max max 485, last max 456
+Ch: 1, Max read: 1872, int time: 12.34, gain: 151.68
+Ch: 2, Max read: 1038, int time: 47.88, gain: 21.68
+Current pixel max max 1131, last max 526
+Current pixel max max 504, last max 485
+Ch: 1, Max read: 2036, int time: 12.22, gain: 166.57
+Ch: 2, Max read: 1112, int time: 50.81, gain: 21.88
+Current pixel max max 1139, last max 565
+Current pixel max max 532, last max 504
+Ch: 1, Max read: 2049, int time: 12.06, gain: 169.88
+Ch: 2, Max read: 1188, int time: 53.49, gain: 22.21
+Current pixel max max 1137, last max 569
+Current pixel max max 548, last max 532
+Ch: 1, Max read: 2038, int time: 11.94, gain: 170.74
+Ch: 2, Max read: 1254, int time: 55.95, gain: 22.41
+Current pixel max max 1053, last max 568
+Current pixel max max 572, last max 548
+Ch: 1, Max read: 1873, int time: 12.36, gain: 151.59
+Ch: 2, Max read: 1308, int time: 58.24, gain: 22.46
+Current pixel max max 1134, last max 526
+Current pixel max max 592, last max 572
+Ch: 1, Max read: 2032, int time: 12.25, gain: 165.88
+Ch: 2, Max read: 1381, int time: 60.28, gain: 22.91
+Current pixel max max 1125, last max 567
+Current pixel max max 613, last max 592

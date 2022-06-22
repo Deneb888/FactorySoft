@@ -1,0 +1,4 @@
+Current pixel max max 100, last max 100
+Ch: 1, Max read: 0, int time: 7.60
+Ch: 2, Max read: 0, int time: 7.60
+Current pixel max max 100, last max 100

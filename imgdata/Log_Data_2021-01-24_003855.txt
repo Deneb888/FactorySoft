@@ -1,0 +1,44 @@
+flash image read data: 0
+ff(P) Parity OK.
+flash image read data: 1
+80(P) Parity OK.
+flash image read data: 2
+00(P) Parity OK.
+flash image read data: 3
+1d(P) Parity OK.
+flash image read data: 4
+00(P) Parity OK.
+flash image read data: 5
+00(P) Parity OK.
+flash image read data: 6
+00(P) Parity OK.
+flash image read data: 7
+1d(P) Parity OK.
+flash image read data: 8
+04(P) Parity OK.
+flash image read data: 9
+4e(P) Parity OK.
+flash image read data: 10
+00(P) Parity OK.
+flash image read data: 11
+cf(P) Parity OK.
+flash image read data: 12
+76(P) Parity OK.
+flash image read data: 13
+51(P) Parity OK.
+flash image read data: 14
+00(P) Parity OK.
+flash image read data: 15
+ef(P) Parity OK.
+flash image read data: 16
+00(P) Parity OK.
+flash image read data: 17
+00(P) Parity OK.
+flash image read data: 18
+bd(P) Parity OK.
+Current pixel max max 970, last max 100
+Current pixel max max 1585, last max 100
+Current pixel max max 983, last max 970
+Current pixel max max 1590, last max 1585
+Current pixel max max 718, last max 100
+Overflow detected max 3707, last max 100

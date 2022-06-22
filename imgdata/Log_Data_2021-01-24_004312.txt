@@ -1,0 +1,89 @@
+Current pixel max max 100, last max 100
+flash image read data: 0
+ff(P) Parity OK.
+flash image read data: 1
+80(P) Parity OK.
+flash image read data: 2
+00(P) Parity OK.
+flash image read data: 3
+1d(P) Parity OK.
+flash image read data: 4
+00(P) Parity OK.
+flash image read data: 5
+00(P) Parity OK.
+flash image read data: 6
+00(P) Parity OK.
+flash image read data: 7
+1d(P) Parity OK.
+flash image read data: 8
+04(P) Parity OK.
+flash image read data: 9
+4e(P) Parity OK.
+flash image read data: 10
+00(P) Parity OK.
+flash image read data: 11
+57(P) Parity OK.
+flash image read data: 12
+76(P) Parity OK.
+flash image read data: 13
+51(P) Parity OK.
+flash image read data: 14
+00(P) Parity OK.
+flash image read data: 15
+a1(P) Parity OK.
+flash image read data: 16
+00(P) Parity OK.
+flash image read data: 17
+00(P) Parity OK.
+flash image read data: 18
+c3(P) Parity OK.
+Current pixel max max 976, last max 100
+Current pixel max max 1577, last max 100
+Current pixel max max 708, last max 100
+Overflow detected max 2223, last max 100
+flash image read data: 0
+ff(P) Parity OK.
+flash image read data: 1
+80(P) Parity OK.
+flash image read data: 2
+00(P) Parity OK.
+flash image read data: 3
+1d(P) Parity OK.
+flash image read data: 4
+00(P) Parity OK.
+flash image read data: 5
+00(P) Parity OK.
+flash image read data: 6
+00(P) Parity OK.
+flash image read data: 7
+1d(P) Parity OK.
+flash image read data: 8
+04(P) Parity OK.
+flash image read data: 9
+4e(P) Parity OK.
+flash image read data: 10
+00(P) Parity OK.
+flash image read data: 11
+57(P) Parity OK.
+flash image read data: 12
+76(P) Parity OK.
+flash image read data: 13
+51(P) Parity OK.
+flash image read data: 14
+00(P) Parity OK.
+flash image read data: 15
+a1(P) Parity OK.
+flash image read data: 16
+00(P) Parity OK.
+flash image read data: 17
+00(P) Parity OK.
+flash image read data: 18
+c3(P) Parity OK.
+Current pixel max max 959, last max 976
+Current pixel max max 1578, last max 1577
+Current pixel max max 708, last max 708
+Current pixel max max 2171, last max 1111
+Current pixel max max 953, last max 959
+Current pixel max max 1573, last max 1578
+Current pixel max max 720, last max 708
+Overflow detected max 2237, last max 1085

@@ -1,0 +1,94 @@
+eeprom read data: 0
+91(P) Parity OK.
+eeprom read data: 1
+d5(P) Parity OK.
+eeprom read data: 2
+3a(P) Parity OK.
+eeprom read data: 3
+2c(P) Parity OK.
+eeprom read data: 4
+ad(P) Parity OK.
+eeprom read data: 5
+7d(P) Parity OK.
+eeprom read data: 6
+0e(P) Parity OK.
+eeprom read data: 7
+02(P) Parity OK.
+eeprom read data: 8
+6f(P) Parity OK.
+eeprom read data: 9
+05(P) Parity OK.
+eeprom read data: 10
+2e(P) Parity OK.
+eeprom read data: 11
+31(P) Parity OK.
+eeprom read data: 12
+bf(P) Parity OK.
+eeprom read data: 13
+40(P) Parity OK.
+eeprom read data: 14
+be(P) Parity OK.
+eeprom read data: 15
+16(P) Parity OK.
+eeprom read data: 16
+94(P) Parity OK.
+eeprom read data: 17
+46(P) Parity OK.
+eeprom read data: 18
+5a(P) Parity OK.
+eeprom read data: 19
+e4(P) Parity OK.
+eeprom read data: 20
+ce(P) Parity OK.
+eeprom read data: 21
+6f(P) Parity OK.
+eeprom read data: 22
+46(P) Parity OK.
+eeprom read data: 23
+bd(P) Parity OK.
+eeprom read data: 24
+0e(P) Parity OK.
+eeprom read data: 25
+81(P) Parity OK.
+eeprom read data: 26
+74(P) Parity OK.
+eeprom read data: 27
+00(P) Parity OK.
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  0
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 112, last max 100
+Current pixel max max 197, last max 100
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 1)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 113, last max 112
+Current pixel max max 202, last max 197
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 2)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 116, last max 113
+Current pixel max max 199, last max 202
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 3)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 115, last max 116
+Current pixel max max 204, last max 199
+Poll cycler status...(one shot)
+Stop polling Gra HID (kill timer 2)
+Temp Control Test Status:
+
+Maxramp: 7.17(degree/s), Error 0.228(degree), dt:  0.510(s)
+Period2 ramp_up: 5.95(degree/s), Error 0.251(degree)
+Period2 ramp_down: -4.43(degree/s), Error 0.252(degree)
+Denature period: 32.66(sec),  Annealing period: 36.24(sec)
+Lid ramp_up: 0.92(degree/s), aux ramp_up: 0.39(degree/s)
+====== USB Detached======!
+XXXX USB ReattachXXXXX!
+Current pixel max max 114, last max 115
+Current pixel max max 200, last max 204

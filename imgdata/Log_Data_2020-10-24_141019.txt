@@ -1,0 +1,4 @@
+Current pixel max max 119, last max 100
+Overflow detected max 3901, last max 100
+Current pixel max max 196, last max 119
+Current pixel max max 165, last max 1950

@@ -1,0 +1,44 @@
+Overflow detected max 3914, last max 100
+Current pixel max max 884, last max 100
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Overflow detected max 3909, last max 1957
+Current pixel max max 879, last max 884
+Overflow detected max 3918, last max 1954
+Current pixel max max 879, last max 879
+Overflow detected max 3911, last max 1959
+Current pixel max max 882, last max 879
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  0
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Stop polling Gra HID...(rData: 3)
+Overflow detected max 3952, last max 100
+Current pixel max max 653, last max 100
+Chan 1, IntTime factor 0.50
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 1)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 2918, last max 3952
+Current pixel max max 651, last max 653
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 2)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 2902, last max 2918
+Current pixel max max 649, last max 651
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 3)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 2918, last max 2902
+Current pixel max max 658, last max 649

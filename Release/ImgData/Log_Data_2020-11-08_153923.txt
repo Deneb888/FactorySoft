@@ -1,0 +1,65 @@
+XXXX USB ReattachXXXXX!
+eeprom read data: 0
+71(P) Parity OK.
+eeprom read data: 1
+53(P) Parity OK.
+eeprom read data: 2
+f2(P) Parity OK.
+eeprom read data: 3
+06(P) Parity OK.
+eeprom read data: 4
+99(P) Parity OK.
+eeprom read data: 5
+c2(P) Parity OK.
+eeprom read data: 6
+41(P) Parity OK.
+eeprom read data: 7
+56(P) Parity OK.
+eeprom read data: 8
+eb(P) Parity OK.
+eeprom read data: 9
+56(P) Parity OK.
+eeprom read data: 10
+28(P) Parity OK.
+eeprom read data: 11
+fe(P) Parity OK.
+eeprom read data: 12
+7c(P) Parity OK.
+eeprom read data: 13
+59(P) Parity OK.
+eeprom read data: 14
+13(P) Parity OK.
+eeprom read data: 15
+70(P) Parity OK.
+eeprom read data: 16
+dc(P) Parity OK.
+eeprom read data: 17
+2f(P) Parity OK.
+eeprom read data: 18
+cf(P) Parity OK.
+eeprom read data: 19
+cd(P) Parity OK.
+eeprom read data: 20
+07(P) Parity OK.
+eeprom read data: 21
+d8(P) Parity OK.
+eeprom read data: 22
+48(P) Parity OK.
+eeprom read data: 23
+c6(P) Parity OK.
+eeprom read data: 24
+4a(P) Parity OK.
+eeprom read data: 25
+a9(P) Parity OK.
+eeprom read data: 26
+80(P) Parity OK.
+eeprom read data: 27
+2c(P) Parity OK.
+Current pixel max max 1528, last max 100
+Overflow detected max 3802, last max 100
+Current pixel max max 458, last max 1528
+Current pixel max max 486, last max 1901
+Current pixel max max 458, last max 458
+Current pixel max max 484, last max 243
+Current pixel max max 654, last max 100
+Current pixel max max 263, last max 100

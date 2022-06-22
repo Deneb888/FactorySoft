@@ -1,0 +1,16 @@
+Current pixel max max 137, last max 100
+Current pixel max max 183, last max 100
+Current pixel max max 120, last max 137
+Current pixel max max 199, last max 183
+Current pixel max max 127, last max 120
+Current pixel max max 112, last max 199
+Current pixel max max 108, last max 100
+Current pixel max max 112, last max 100
+Current pixel max max 127, last max 127
+Current pixel max max 108, last max 112
+Current pixel max max 110, last max 108
+Current pixel max max 115, last max 112
+Current pixel max max 861, last max 127
+Current pixel max max 208, last max 108
+Current pixel max max 245, last max 110
+Current pixel max max 126, last max 115

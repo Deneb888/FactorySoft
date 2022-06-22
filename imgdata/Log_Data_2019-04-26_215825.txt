@@ -1,0 +1,18 @@
+Overflow detected max 3914, last max 100
+Current pixel max max 884, last max 100
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Overflow detected max 3909, last max 1957
+Current pixel max max 879, last max 884
+Overflow detected max 3918, last max 1954
+Current pixel max max 879, last max 879
+Overflow detected max 3911, last max 1959
+Current pixel max max 882, last max 879

@@ -1,0 +1,286 @@
+eeprom read data: 0
+f0(P)
+eeprom read data: 1
+3c(P)
+eeprom read data: 2
+c3(P)
+eeprom read data: 3
+5b(P)
+eeprom read data: 4
+0c(P)
+eeprom read data: 5
+6a(P)
+eeprom read data: 6
+87(P)
+eeprom read data: 7
+0a(P)
+eeprom read data: 8
+66(P)
+eeprom read data: 9
+37(P)
+eeprom read data: 10
+c8(P)
+eeprom read data: 11
+ca(P)
+eeprom read data: 12
+47(P)
+eeprom read data: 13
+0c(P)
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power on: 0
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power off
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+Lid closed: 0
+main power on: 1
+lid open
+main power on: 1
+lid open
+main power on: 1
+lid open
+main power on: 1
+lid open
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+Lid closed: 1
+main power on: 1
+lid open
+main power on: 1
+lid open
+main power on: 1
+lid open
+main power on: 1
+lid open
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Lid closed: 2
+main power on: 1
+Current pixel max max 369, last max 100
+Overflow detected max 1885, last max 100
+Current pixel max max 117, last max 369
+Current pixel max max 115, last max 942
+Ch: 1, Max read: 59, int time: 7.41, gain: 7.97
+Ch: 2, Max read: 42, int time: 7.46, gain: 5.63
+Current pixel max max 204, last max 117
+Current pixel max max 214, last max 57
+Ch: 1, Max read: 374, int time: 12.77, gain: 29.28
+Ch: 2, Max read: 289, int time: 13.11, gain: 22.05
+Current pixel max max 270, last max 204
+Current pixel max max 310, last max 107
+Ch: 1, Max read: 619, int time: 17.33, gain: 35.72
+Ch: 2, Max read: 537, int time: 17.94, gain: 29.94
+Current pixel max max 335, last max 270
+Current pixel max max 377, last max 155
+Ch: 1, Max read: 859, int time: 21.09, gain: 40.72
+Ch: 2, Max read: 707, int time: 22.20, gain: 31.84
+Current pixel max max 451, last max 335
+Current pixel max max 534, last max 188
+Ch: 1, Max read: 1281, int time: 23.47, gain: 54.59
+Ch: 2, Max read: 1091, int time: 25.20, gain: 43.29
+Current pixel max max 477, last max 451
+Current pixel max max 584, last max 267
+Ch: 1, Max read: 1373, int time: 25.54, gain: 53.77
+Ch: 2, Max read: 1196, int time: 27.86, gain: 42.94
+Current pixel max max 498, last max 477
+Current pixel max max 617, last max 292
+Ch: 1, Max read: 1469, int time: 27.29, gain: 53.83
+Ch: 2, Max read: 1297, int time: 30.18, gain: 42.98
+Current pixel max max 527, last max 498
+Current pixel max max 674, last max 308
+Ch: 1, Max read: 1567, int time: 28.72, gain: 54.57
+Ch: 2, Max read: 1418, int time: 32.10, gain: 44.18
+Current pixel max max 540, last max 527
+Current pixel max max 705, last max 337
+Ch: 1, Max read: 1613, int time: 29.99, gain: 53.78
+Ch: 2, Max read: 1500, int time: 33.75, gain: 44.45
+Current pixel max max 551, last max 540
+Current pixel max max 712, last max 352
+Ch: 1, Max read: 1651, int time: 31.15, gain: 53.01
+Ch: 2, Max read: 1523, int time: 35.32, gain: 43.12
+Current pixel max max 580, last max 551
+Current pixel max max 746, last max 356
+Ch: 1, Max read: 1764, int time: 31.92, gain: 55.26
+Ch: 2, Max read: 1596, int time: 36.65, gain: 43.54
+Current pixel max max 585, last max 580
+Current pixel max max 771, last max 373
+Ch: 1, Max read: 1767, int time: 32.69, gain: 54.05
+Ch: 2, Max read: 1655, int time: 37.79, gain: 43.79
+Current pixel max max 597, last max 585
+Current pixel max max 790, last max 385
+Ch: 1, Max read: 1815, int time: 33.30, gain: 54.50
+Ch: 2, Max read: 1695, int time: 38.80, gain: 43.69
+Current pixel max max 613, last max 597
+Current pixel max max 791, last max 395
+Ch: 1, Max read: 1874, int time: 33.72, gain: 55.58
+Ch: 2, Max read: 1732, int time: 39.68, gain: 43.65
+Current pixel max max 614, last max 613
+Current pixel max max 824, last max 395

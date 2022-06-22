@@ -1,0 +1,8 @@
+System ID (系统编号)：-0-0
+Test Time (测试时间)： 2019-08-27_22:30:36
+Num of Wells and Channels(反应池及通道)： 4-1
+温控测试结果： Maxramp: 10.16(degree/s), Error 0.502(degree)
+Period2 ramp_up: 7.66(degree/s), Error 0.634(degree)
+Period2 ramp_down: -4.43(degree/s), Error 0.354(degree)
+Denature period: 18.76(sec),  Annealing period: 23.83(sec)
+温控测试通过·

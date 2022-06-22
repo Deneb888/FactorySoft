@@ -1,0 +1,60 @@
+eeprom read data: 0
+7a(P) Parity OK.
+eeprom read data: 1
+6a(P) Parity OK.
+eeprom read data: 2
+36(P) Parity OK.
+eeprom read data: 3
+df(P) Parity OK.
+eeprom read data: 4
+81(P) Parity OK.
+eeprom read data: 5
+c6(P) Parity OK.
+eeprom read data: 6
+1d(P) Parity OK.
+eeprom read data: 7
+65(P) Parity OK.
+eeprom read data: 8
+e8(P) Parity OK.
+eeprom read data: 9
+4a(P) Parity OK.
+eeprom read data: 10
+49(P) Parity OK.
+eeprom read data: 11
+dd(P) Parity OK.
+eeprom read data: 12
+78(P) Parity OK.
+eeprom read data: 13
+25(P) Parity OK.
+eeprom read data: 14
+41(P) Parity OK.
+eeprom read data: 15
+cc(P) Parity OK.
+eeprom read data: 16
+13(P) Parity OK.
+eeprom read data: 17
+91(P) Parity OK.
+eeprom read data: 18
+7f(P) Parity OK.
+eeprom read data: 19
+2b(P) Parity OK.
+eeprom read data: 20
+b4(P) Parity OK.
+eeprom read data: 21
+6e(P) Parity OK.
+eeprom read data: 22
+36(P) Parity OK.
+eeprom read data: 23
+5e(P) Parity OK.
+eeprom read data: 24
+bf(P) Parity OK.
+eeprom read data: 25
+8c(P) Parity OK.
+eeprom read data: 26
+9a(P) Parity OK.
+eeprom read data: 27
+09(P) Parity OK.
+Current pixel max max 118, last max 100
+Overflow detected max 2954, last max 100
+Current pixel max max 113, last max 118
+Current pixel max max 587, last max 1477

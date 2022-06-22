@@ -1,0 +1,24 @@
+系统编号：F-1-22
+测试时间： 2019-08-10_23:25:30
+Current pixel max max 143, last max 100
+Current pixel max max 117, last max 100
+Ch: 1, Max read: 154, int time: 7.09
+Ch: 2, Max read: 43, int time: 7.46
+Current pixel max max 281, last max 143
+Current pixel max max 127, last max 117
+Ch: 1, Max read: 537, int time: 11.92
+Ch: 2, Max read: 95, int time: 13.74
+Current pixel max max 359, last max 281
+Current pixel max max 151, last max 127
+Ch: 1, Max read: 802, int time: 15.87
+Ch: 2, Max read: 148, int time: 19.86
+Current pixel max max 449, last max 359
+Current pixel max max 166, last max 151
+Ch: 1, Max read: 1058, int time: 18.98
+Ch: 2, Max read: 210, int time: 25.76
+Current pixel max max 518, last max 449
+Current pixel max max 205, last max 166
+Ch: 1, Max read: 1276, int time: 21.37
+Ch: 2, Max read: 324, int time: 31.29
+Current pixel max max 611, last max 518
+Current pixel max max 231, last max 205

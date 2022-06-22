@@ -1,0 +1,50 @@
+eeprom read data: 0
+88(P)
+eeprom read data: 1
+2e(P)
+eeprom read data: 2
+fa(P)
+eeprom read data: 3
+fa(P)
+eeprom read data: 4
+d7(P)
+eeprom read data: 5
+7f(P)
+eeprom read data: 6
+36(P)
+eeprom read data: 7
+db(P)
+eeprom read data: 8
+fb(P)
+eeprom read data: 9
+4e(P)
+eeprom read data: 10
+e4(P)
+Overflow detected max 1755, last max 100
+Overflow detected max 2097, last max 100
+Current pixel max max 1753, last max 877
+Current pixel max max 2095, last max 1048
+Current pixel max max 1757, last max 876
+Current pixel max max 2087, last max 1047
+Overflow detected max 3596, last max 878
+Current pixel max max 2097, last max 1043
+Overflow detected max 3596, last max 1798
+Current pixel max max 2100, last max 1048
+Overflow detected max 3596, last max 1798
+Current pixel max max 2088, last max 1050
+Current pixel max max 1140, last max 1798
+Current pixel max max 1144, last max 570
+Current pixel max max 1345, last max 572
+Current pixel max max 1345, last max 672
+Current pixel max max 1543, last max 672
+Current pixel max max 1541, last max 771
+Current pixel max max 1757, last max 770
+Current pixel max max 1749, last max 878
+Current pixel max max 1946, last max 874
+Current pixel max max 1956, last max 973
+Overflow detected max 2165, last max 978
+Current pixel max max 2171, last max 1082
+Overflow detected max 2487, last max 1085
+Overflow detected max 2486, last max 1243
+Overflow detected max 2685, last max 1243
+Overflow detected max 2700, last max 1342

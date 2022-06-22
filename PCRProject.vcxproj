@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{C52F253B-74F6-4852-A2CA-601EBDFF4A7B}</ProjectGuid>
+    <RootNamespace>
+    </RootNamespace>
+    <Keyword>MFCProj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <TargetName>$(ProjectName)Factory</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <GenerateManifest>true</GenerateManifest>
+    <TargetName>$(ProjectName)Factory</TargetName>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>hid.lib;setupapi.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0409</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Manifest>
+      <EnableDpiAwareness>true</EnableDpiAwareness>
+    </Manifest>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>hid.lib;setupapi.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Manifest>
+      <EnableDpiAwareness>true</EnableDpiAwareness>
+    </Manifest>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="chart\ChartCtrl\ChartBalloonLabel.inl" />
+    <None Include="chart\ChartCtrl\ChartLabel.inl" />
+    <None Include="chart\ChartCtrl\ChartPointsArray.inl" />
+    <None Include="chart\ChartCtrl\ChartSerieBase.inl" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="json\src\json_valueiterator.inl" />
+    <None Include="ReadMe.txt" />
+    <None Include="res\PCRProject.ico" />
+    <None Include="res\PCRProject.rc2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="chart\ChartCtrl\ChartAxis.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartAxisLabel.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartBalloonLabel.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartBarSerie.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartCandlestickSerie.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartCrossHairCursor.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartCtrl.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartCursor.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartDateTimeAxis.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartDragLineCursor.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartFont.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartGanttSerie.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartGradient.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartGrid.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartLabel.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartLegend.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartLineSerie.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartLogarithmicAxis.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartMouseListener.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartPointsArray.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartPointsSerie.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartScrollBar.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartSerie.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartSerieBase.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartSeriesMouseListener.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartStandardAxis.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartString.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartSurfaceSerie.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartTitle.h" />
+    <ClInclude Include="chart\ChartCtrl\ChartXYSerie.h" />
+    <ClInclude Include="chart\ChartCtrl\PointsOrdering.h" />
+    <ClInclude Include="chart\fit.h" />
+    <ClInclude Include="CurveShow.h" />
+    <ClInclude Include="GraDlg.h" />
+    <ClInclude Include="IntTimeDlg.h" />
+    <ClInclude Include="json\include\allocator.h" />
+    <ClInclude Include="json\include\assertions.h" />
+    <ClInclude Include="json\include\autolink.h" />
+    <ClInclude Include="json\include\config.h" />
+    <ClInclude Include="json\include\features.h" />
+    <ClInclude Include="json\include\forwards.h" />
+    <ClInclude Include="json\include\json.h" />
+    <ClInclude Include="json\include\reader.h" />
+    <ClInclude Include="json\include\value.h" />
+    <ClInclude Include="json\include\version.h" />
+    <ClInclude Include="json\include\writer.h" />
+    <ClInclude Include="json\src\json_tool.h" />
+    <ClInclude Include="ManuDlg.h" />
+    <ClInclude Include="OperationDlg.h" />
+    <ClInclude Include="ParsaveDlg.h" />
+    <ClInclude Include="PCRProject.h" />
+    <ClInclude Include="PCRProjectDlg.h" />
+    <ClInclude Include="RegDlg.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="SerialNumDlg.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="TempCtrlModel.h" />
+    <ClInclude Include="TrimDlg.h" />
+    <ClInclude Include="TrimReader.h" />
+    <ClInclude Include="VersionShow.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="chart\ChartCtrl\ChartAxis.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartAxisLabel.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartBarSerie.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartCandlestickSerie.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartCrossHairCursor.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartCtrl.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartCursor.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartDateTimeAxis.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartDragLineCursor.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartFont.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartGanttSerie.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartGradient.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartGrid.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartLegend.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartLineSerie.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartLogarithmicAxis.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartPointsSerie.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartScrollBar.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartSerie.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartStandardAxis.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartSurfaceSerie.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartTitle.cpp" />
+    <ClCompile Include="chart\ChartCtrl\ChartXYSerie.cpp" />
+    <ClCompile Include="CurveShow.cpp" />
+    <ClCompile Include="GraDlg.cpp" />
+    <ClCompile Include="IntTimeDlg.cpp" />
+    <ClCompile Include="json\src\json_reader.cpp" />
+    <ClCompile Include="json\src\json_value.cpp" />
+    <ClCompile Include="json\src\json_writer.cpp" />
+    <ClCompile Include="ManuDlg.cpp" />
+    <ClCompile Include="MathRound.cpp" />
+    <ClCompile Include="OperationDlg.cpp" />
+    <ClCompile Include="OperationDlg2.cpp" />
+    <ClCompile Include="ParsaveDlg.cpp" />
+    <ClCompile Include="PCRProject.cpp" />
+    <ClCompile Include="PCRProjectDlg.cpp" />
+    <ClCompile Include="RegDlg.cpp" />
+    <ClCompile Include="SerialNumDlg.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="SystemConfig.cpp" />
+    <ClCompile Include="TempCtrlModel.cpp" />
+    <ClCompile Include="TrimDlg.cpp" />
+    <ClCompile Include="TrimReader.cpp" />
+    <ClCompile Include="VersionShow.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="PCRProject.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="PCRProject.rc" _x007B_648A5600-2C6E-101B-82B6-000000000014_x007D_="CMscomm1" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,70 @@
+eeprom read data: 0
+f0(P)
+eeprom read data: 1
+3c(P)
+eeprom read data: 2
+c3(P)
+eeprom read data: 3
+5b(P)
+eeprom read data: 4
+0c(P)
+eeprom read data: 5
+6a(P)
+eeprom read data: 6
+87(P)
+eeprom read data: 7
+0a(P)
+eeprom read data: 8
+66(P)
+eeprom read data: 9
+37(P)
+eeprom read data: 10
+c8(P)
+eeprom read data: 11
+ca(P)
+eeprom read data: 12
+47(P)
+eeprom read data: 13
+0c(P)
+Current pixel max max 132, last max 100
+Current pixel max max 131, last max 100
+Ch: 1, Max read: 69, int time: 7.37, gain: 9.36
+Ch: 2, Max read: 74, int time: 7.36, gain: 10.06
+Current pixel max max 207, last max 132
+Current pixel max max 210, last max 131
+Ch: 1, Max read: 387, int time: 12.70, gain: 30.48
+Ch: 2, Max read: 291, int time: 13.00, gain: 22.39
+Current pixel max max 266, last max 207
+Current pixel max max 286, last max 210
+Ch: 1, Max read: 609, int time: 17.29, gain: 35.23
+Ch: 2, Max read: 498, int time: 17.95, gain: 27.74
+Current pixel max max 328, last max 266
+Current pixel max max 375, last max 286
+Ch: 1, Max read: 852, int time: 21.07, gain: 40.43
+Ch: 2, Max read: 716, int time: 22.19, gain: 32.27
+Current pixel max max 442, last max 328
+Current pixel max max 529, last max 375
+Ch: 1, Max read: 1242, int time: 23.58, gain: 52.68
+Ch: 2, Max read: 1078, int time: 25.23, gain: 42.72
+Current pixel max max 476, last max 442
+Current pixel max max 580, last max 529
+Ch: 1, Max read: 1395, int time: 25.57, gain: 54.55
+Ch: 2, Max read: 1183, int time: 27.93, gain: 42.36
+Current pixel max max 489, last max 476
+Current pixel max max 615, last max 580
+Ch: 1, Max read: 1451, int time: 27.38, gain: 52.99
+Ch: 2, Max read: 1283, int time: 30.29, gain: 42.35
+Current pixel max max 530, last max 489
+Current pixel max max 674, last max 615
+Ch: 1, Max read: 1556, int time: 28.85, gain: 53.94
+Ch: 2, Max read: 1424, int time: 32.19, gain: 44.23
+Current pixel max max 535, last max 530
+Current pixel max max 690, last max 674
+Ch: 1, Max read: 1611, int time: 30.13, gain: 53.46
+Ch: 2, Max read: 1461, int time: 33.97, gain: 43.00
+Current pixel max max 560, last max 535
+Current pixel max max 711, last max 690
+Ch: 1, Max read: 1699, int time: 31.13, gain: 54.59
+Ch: 2, Max read: 1534, int time: 35.51, gain: 43.20
+Current pixel max max 574, last max 560
+Current pixel max max 738, last max 711

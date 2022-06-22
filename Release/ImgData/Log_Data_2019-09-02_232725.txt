@@ -1,0 +1,30 @@
+Sent-Cmd: 13, Type:  8
+Rcv-Cmd: 13, Type:  8, ErrCode:  0
+Sent-Cmd: 13, Type:  3
+Rcv-Cmd: 13, Type:  3, ErrCode:  0
+Polling Gra HID...(start timer 2)
+Sent-Cmd: 13, Type:  4
+Rcv-Cmd: 13, Type:  4, ErrCode:  0
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 100, last max 100
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 1)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 100, last max 100
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 2)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 100, last max 100
+Poll cycler status...(one shot)
+Polling Gra HID...(cycle #: 3)
+Stop polling Gra HID...(rData: 3)
+Current pixel max max 100, last max 100
+Poll cycler status...(one shot)
+Stop polling Gra HID (kill timer 2)
+Temp Control Test Status:
+
+Maxramp: 9.71(degree/s), Error 0.429(degree), dt:  0.510(s)
+Period2 ramp_up: 7.52(degree/s), Error 1.054(degree)
+Period2 ramp_down: -4.22(degree/s), Error 0.549(degree)
+Denature period: 16.82(sec),  Annealing period: 24.46(sec)
+Current pixel max max 100, last max 100
