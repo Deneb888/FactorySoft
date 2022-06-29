@@ -2413,7 +2413,7 @@ BOOL CPCRProjectDlg::OnInitDialog()
 
 	test_report.time = tstr;
 
-	test_report.config.Format("%d-%d", g_pDPReader->num_wells, g_pDPReader->num_channels);
+	test_report.config.Format("%d-%d-wellformat(%d)", g_pDPReader->num_wells, g_pDPReader->num_channels, g_pDPReader->well_format);
 
 //	m_GraDlg.DisplayReportStatus("ÏµÍ³±àºÅ: " + test_report.sys_id + " (" + test_report.config + ")\r\n" + test_report.time);
 

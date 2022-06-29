@@ -1,2 +1,5 @@
 /Debug/*.pch
 /Release/*.pch
+/Debug/*.pdb
+/Debug/*.ilk
+/Release/*.pdb

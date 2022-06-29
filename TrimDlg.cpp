@@ -2961,7 +2961,7 @@ void CTrimDlg::OnBnClickedButtonReadf()
 	ostr.Format("%0.3f", m_tc55);
 	SetDlgItemTextA(IDC_TRIM_EDIT_TempCompen55, ostr);
 
-	test_report.config.Format("%d-%d", g_pDPReader->num_wells, g_pDPReader->num_channels);
+	test_report.config.Format("%d-%d-well_format(%d)", g_pDPReader->num_wells, g_pDPReader->num_channels, g_pDPReader->well_format);
 
 	switch (currentLanguage) {
 	case language_English:
