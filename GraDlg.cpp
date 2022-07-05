@@ -92,7 +92,7 @@ std::vector<std::string> m_PositionChip[MAX_CHAN];
 
 int numWells = MAX_WELL;
 int numChannels = MAX_CHAN;
-int wellFormat = 0;				// non-specified value
+// int wellFormat = 0;				// non-specified value
 
 extern std::vector <double> ifactor[MAX_CHAN];
 extern std::vector <double> mtemp[MAX_CHAN];

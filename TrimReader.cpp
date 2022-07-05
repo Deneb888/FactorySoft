@@ -1196,7 +1196,7 @@ extern	std::vector<std::string> m_PositionChip[4];
 
 extern int numWells;
 extern int numChannels;
-extern int wellFormat;
+// extern int wellFormat;
 int Sn1, Sn2;
 BYTE ModelLetter = 'x';
 std::string ModelString;
@@ -1215,6 +1215,7 @@ DPReader::DPReader()
 	num_wells = 4, 
 	num_channels = 1;
 	channel_format = 0;
+	well_format = 0;
 
 	num_pages = 1;
 
@@ -1320,7 +1321,9 @@ int DPReader::WriteTrimBuff()
 	Add2TrimBuff(num_wells);	
 
 	if (version == 1) {
-		Add2TrimBuff((BYTE)wellFormat);
+//		Add2TrimBuff((BYTE)wellFormat);
+
+		Add2TrimBuff(well_format);
 
 		Add2TrimBuff(channel_format);
 		Add2TrimBuff(tc95);
@@ -1432,7 +1435,7 @@ void DPReader::RestoreFromTrimBuff1()
 		num_wells = TrimBuff2Byte();
 
 		well_format = TrimBuff2Byte();
-		wellFormat = well_format;
+		// wellFormat = well_format;
 
 		channel_format = TrimBuff2Byte();	// Reserved bytes
 		tc95 = TrimBuff2Byte();
@@ -1552,7 +1555,9 @@ void  DPReader::regDispatch(CString path)
 
 	if (std::regex_search(str, result, pattern))
 	{
-		wellFormat = atoi(result[0].str().c_str());
+		// wellFormat = atoi(result[0].str().c_str());
+
+		well_format = atoi(result[0].str().c_str());
 	}
 
 	// Find the number of channels
